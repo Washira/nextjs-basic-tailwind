@@ -1,11 +1,11 @@
 import Layout from '../src/components/layout'
 
-function About () {
+function Events () {
     return (
         <Layout>
-            About Page
+            Events
         </Layout>
     )
 }
- 
-export default About
+
+export default Events
